@@ -1,0 +1,6 @@
+config/
+config_root/
+__pycache__/
+*.pyc
+.frpc/
+frp/
